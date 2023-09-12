@@ -74,7 +74,7 @@ Through the analysis of pizza sales data, we gained valuable insights, including
 
 3. **Customer Demographics:** By analyzing customer data, we understood the demographics of our customer base and tailored marketing strategies accordingly.
 
-(PizzaSales/PizzaSalesDashboard.png)
+![Sales Dashboard](PizzaSales/PizzaSalesDashboard.png)
 
 *Description: The screenshot above shows the main dashboard of our Power BI report, providing an overview of sales insights and visualizations generated during this project.*
 
