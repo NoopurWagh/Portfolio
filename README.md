@@ -34,6 +34,6 @@ I am an aspiring and passionate data analyst and software engineer with skilled 
 
 ## Contact
 
-Feel free to reach out if you have any questions, suggestions, or would like to collaborate on a project. You can contact me via email at [noopurwagh01@gmail.com](mailto:noopurwagh01@gmail.com) or through my LinkedIn profile: [LinkedIn Profile]((https://www.linkedin.com/in/noopur-wagh/)).
+Feel free to reach out if you have any questions, suggestions, or would like to collaborate on a project. You can contact me via email at [noopurwagh01@gmail.com](mailto:noopurwagh01@gmail.com) or through my LinkedIn profile: [https://www.linkedin.com/in/noopur-wagh/](link-to-your-linkedin-profile)
 
 Thank you for visiting and exploring my data analysis portfolio!
