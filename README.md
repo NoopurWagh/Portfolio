@@ -30,10 +30,10 @@ Welcome to my Data Analysis Portfolio! This repository serves as a showcase of m
 
 ## About Me
 
-I am an expert data analyst and software engineer with expertise in Python, R, SQL, and Power BI. These projects showcase my skills in data collection, cleaning, analysis, visualization, and presentation.
+I am an aspiring and passionate data analyst and software engineer with skilled in Python, R, SQL, and Power BI. These projects showcase my skills in data collection, cleaning, analysis, visualization, and presentation.
 
 ## Contact
 
-Feel free to reach out if you have any questions, suggestions, or would like to collaborate on a project. You can contact me via email at [your.email@example.com](mailto:your.email@example.com) or through my LinkedIn profile: [LinkedIn Profile](link-to-your-linkedin-profile).
+Feel free to reach out if you have any questions, suggestions, or would like to collaborate on a project. You can contact me via email at [noopurwagh01@gmail.com](mailto:noopurwagh01@gmail.com) or through my LinkedIn profile: [LinkedIn Profile]([link-to-your-linkedin-profile](https://www.linkedin.com/in/noopur-wagh/)).
 
 Thank you for visiting and exploring my data analysis portfolio!
