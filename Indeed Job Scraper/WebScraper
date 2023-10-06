@@ -1,0 +1,46 @@
+# run the following command in bash - pip install requests beautifulsoup4 pandas
+
+import requests
+from bs4 import BeautifulSoup
+import pandas as pd
+
+# URL of the Indeed job search results page
+base_url = "https://www.indeed.com/jobs"
+params = {
+    "q": "data scientist",  # Job title
+    "l": "Amsterdam",        # City
+    "start": 0              # Page number
+}
+
+# Create empty lists to store job data
+job_titles = []
+job_companies = []
+job_locations = []
+
+# Loop through multiple pages (you can set a maximum page limit)
+for page in range(5):  
+    params["start"] = page * 10  
+    response = requests.get(base_url, params=params)
+    soup = BeautifulSoup(response.text, "html.parser")
+
+    # Find and extract job posting information
+    job_elements = soup.find_all("div", class_="jobsearch-SerpJobCard")
+    for job_element in job_elements:
+        title = job_element.find("h2", class_="title").text.strip()
+        company = job_element.find("span", class_="company").text.strip()
+        location = job_element.find("div", class_="recJobLoc").get("data-rc-loc")
+        
+        # Append data to respective lists
+        job_titles.append(title)
+        job_companies.append(company)
+        job_locations.append(location)
+
+# Create a DataFrame to store the data
+job_data = pd.DataFrame({
+    "Title": job_titles,
+    "Company": job_companies,
+    "Location": job_locations
+})
+
+# Save the data to a CSV file
+job_data.to_csv("indeed_job_data.csv", index=False)
