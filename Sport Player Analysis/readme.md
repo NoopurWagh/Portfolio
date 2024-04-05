@@ -46,7 +46,8 @@ Data models were developed in Power BI to optimize player selection based on var
 ## Interactive Dashboard
 
 An interactive dashboard was created in Power BI, enabling dynamic parameter adjustments for crafting the optimal cricket team lineup. Stakeholders can explore different scenarios and make informed decisions based on the visualizations and insights provided.
-![Interactive Dashboard](path/to/your/image.png)
+
+![Interactive Dashboard](Sport Player Analysis/Report page 1.png)
 
 ## Advantages of the Project
 
