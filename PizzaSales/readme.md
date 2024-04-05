@@ -22,13 +22,13 @@ This README document provides an overview of the Pizza Sales Analysis project. I
 
 The Pizza Sales Analysis project aimed to:
 
-1. **Load Data via Excel Flat File:** We learned how to import and load data from an Excel flat file into Power BI. This process involved connecting to the data source, defining data types, and ensuring data integrity during the import.
+1. **Load Data via Excel Flat File:** I learned how to import and load data from an Excel flat file into Power BI. This process involved connecting to the data source, defining data types, and ensuring data integrity during the import.
 
-2. **Data Transformation:** We performed data transformation operations, such as data cleaning, filtering, and structuring, to prepare the data for analysis. This step involved removing duplicates, handling missing values, and ensuring consistency in data formatting.
+2. **Data Transformation:** I performed data transformation operations, such as data cleaning, filtering, and structuring, to prepare the data for analysis. This step involved removing duplicates, handling missing values, and ensuring consistency in data formatting.
 
-3. **DAX Functions:** We utilized Data Analysis Expressions (DAX) to write simple calculations and custom measures to gain deeper insights into pizza sales. DAX functions allowed us to create calculated columns and measures that provided valuable metrics for analysis.
+3. **DAX Functions:** I utilized Data Analysis Expressions (DAX) to write simple calculations and custom measures to gain deeper insights into pizza sales. DAX functions allowed me to create calculated columns and measures that provided valuable metrics for analysis.
 
-4. **Sales Insights:** The primary goal of the project was to gain insights into pizza sales. We analyzed sales trends, customer preferences, and the performance of various pizza categories, enabling the pizza restaurant to make data-driven decisions.
+4. **Sales Insights:** The primary goal of the project was to gain insights into pizza sales. I analyzed sales trends, customer preferences, and the performance of various pizza categories, enabling the pizza restaurant to make data-driven decisions.
 
 ## Getting Started
 
