@@ -15,7 +15,7 @@
 
 ## Introduction
 
-Welcome to the Cricket World Cup 2022 Dream Team Optimizer project! This README provides an overview of our data-driven approach to crafting the optimal lineup for the Men's Cricket World Cup 2022. By leveraging Python for data extraction, transformation, and cleaning, along with Power BI for visualization and interactivity, we aim to provide insights for selecting the dream team lineup.
+Welcome to the Cricket World Cup 2022 Dream Team Optimizer project! This README provides an overview of my data-driven approach to crafting the optimal lineup for the Men's Cricket World Cup 2022. By leveraging Python for data extraction, transformation, and cleaning, along with Power BI for visualization and interactivity, I aim to provide insights for selecting the dream team lineup.
 
 ## Project Overview
 
