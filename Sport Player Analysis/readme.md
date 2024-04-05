@@ -47,7 +47,14 @@ Data models were developed in Power BI to optimize player selection based on var
 
 An interactive dashboard was created in Power BI, enabling dynamic parameter adjustments for crafting the optimal cricket team lineup. Stakeholders can explore different scenarios and make informed decisions based on the visualizations and insights provided.
 
-![Interactive Dashboard](https://github.com/NoopurWagh/Portfolio/blob/main/Sport%20Player%20Analysis/Report%20page%201.png))
+![Interactive Dashboard](https://github.com/NoopurWagh/Portfolio/blob/main/Sport%20Player%20Analysis/Report%20page%201.png)
+
+![Interactive Dashboard](https://github.com/NoopurWagh/Portfolio/blob/main/Sport%20Player%20Analysis/Report%20page%201.png)
+
+![Interactive Dashboard](https://github.com/NoopurWagh/Portfolio/blob/main/Sport%20Player%20Analysis/Report%20page%201.png)
+
+![Interactive Dashboard](https://github.com/NoopurWagh/Portfolio/blob/main/Sport%20Player%20Analysis/Report%20page%201.png)
+
 
 ## Advantages of the Project
 
