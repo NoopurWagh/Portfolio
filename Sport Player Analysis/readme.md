@@ -49,11 +49,11 @@ An interactive dashboard was created in Power BI, enabling dynamic parameter adj
 
 ![Interactive Dashboard](https://github.com/NoopurWagh/Portfolio/blob/main/Sport%20Player%20Analysis/Report%20page%201.png)
 
-![Interactive Dashboard](https://github.com/NoopurWagh/Portfolio/blob/main/Sport%20Player%20Analysis/Report%20page%201.png)
+![Interactive Dashboard](https://github.com/NoopurWagh/Portfolio/blob/main/Sport%20Player%20Analysis/Dashboard%20Feature%201.png)
 
-![Interactive Dashboard](https://github.com/NoopurWagh/Portfolio/blob/main/Sport%20Player%20Analysis/Report%20page%201.png)
+![Interactive Dashboard](https://github.com/NoopurWagh/Portfolio/blob/main/Sport%20Player%20Analysis/Dashboard%20Feature%202.png)
 
-![Interactive Dashboard](https://github.com/NoopurWagh/Portfolio/blob/main/Sport%20Player%20Analysis/Report%20page%201.png)
+![Interactive Dashboard](https://github.com/NoopurWagh/Portfolio/blob/main/Sport%20Player%20Analysis/Final%20Team%20Selection.png)
 
 
 ## Advantages of the Project
