@@ -50,6 +50,10 @@ The Ultra Marathon Analysis project offers the following benefits:
 
 - **Optimized Performance:** The project facilitates the optimization of athlete performance, race planning, and sponsorship strategies, ultimately contributing to enhanced outcomes in ultra marathon races.
 
+![Ultra Marathon](https://example.com/ultra_marathon_image.png)
+![Ultra Marathon](https://example.com/ultra_marathon_image.png)
+![Ultra Marathon](https://example.com/ultra_marathon_image.png)
+![Ultra Marathon](https://example.com/ultra_marathon_image.png)
 
 ## Getting Started
 
