@@ -46,14 +46,17 @@ The Ultra Marathon Analysis project offers the following benefits:
 
 - **Actionable Insights:** My analysis provides actionable insights for athletes, race organizers, and sponsors, aiding in the optimization of training regimes, race planning strategies, and sponsorship approaches.
 
+![Ultra Marathon](https://github.com/NoopurWagh/Portfolio/blob/main/Marathon%20Data%20Analysis/Average%20Race%20Speed%20per%20Gender%20per%20Race%20Length.png)
+
 - **Data-Driven Decision Making:** By leveraging Python for data analysis and visualization, I empower stakeholders to make informed decisions based on evidence and trends derived from the dataset.
+
+![Ultra Marathon](https://github.com/NoopurWagh/Portfolio/blob/main/Marathon%20Data%20Analysis/Average%20Race%20Speed.png)
+![Ultra Marathon](https://github.com/NoopurWagh/Portfolio/blob/main/Marathon%20Data%20Analysis/Scatter%20Diagram%20Race%20speed%20per%20Gender%20per%20age.png)
 
 - **Optimized Performance:** The project facilitates the optimization of athlete performance, race planning, and sponsorship strategies, ultimately contributing to enhanced outcomes in ultra marathon races.
 
-![Ultra Marathon](https://example.com/ultra_marathon_image.png)
-![Ultra Marathon](https://example.com/ultra_marathon_image.png)
-![Ultra Marathon](https://example.com/ultra_marathon_image.png)
-![Ultra Marathon](https://example.com/ultra_marathon_image.png)
+![Ultra Marathon](https://github.com/NoopurWagh/Portfolio/blob/main/Marathon%20Data%20Analysis/Runners%20per%20RaceLength.png)
+
 
 ## Getting Started
 
