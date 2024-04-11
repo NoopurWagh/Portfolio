@@ -16,7 +16,7 @@
 
 ## Introduction
 
-Welcome to the Ultra Marathon Analysis project! This README provides an overview of our analysis of ultra marathon race data using Python. We utilized the Pandas, NumPy, and Matplotlib libraries to clean, transform, and analyze the dataset obtained from Kaggle. Our analysis focused on understanding athlete performance, speed differences between genders, age group performances, and seasonal trends in races.
+Welcome to the Ultra Marathon Analysis project! This README provides an overview of our analysis of ultra marathon race data using Python. I utilized the Pandas, NumPy, and Matplotlib libraries to clean, transform, and analyze the dataset obtained from Kaggle. My analysis focused on understanding athlete performance, speed differences between genders, age group performances, and seasonal trends in races.
 
 ## Project Overview
 
@@ -37,15 +37,15 @@ To replicate this project, you will need:
 
 ## Data Loading
 
-We loaded the ultra marathon dataset into Python using Pandas, enabling us to perform data exploration and analysis.
+I loaded the ultra marathon dataset into Python using Pandas, enabling me to perform data exploration and analysis.
 
 ## Data Cleaning and Transformation
 
-We cleaned and transformed the dataset by sorting data for 50-mile races in 2020, combining 50k and 50-mile races, applying filters, fixing data types, and renaming columns to prepare it for analysis.
+I cleaned and transformed the dataset by sorting data for 50-mile races in 2020, combining 50k and 50-mile races, applying filters, fixing data types, and renaming columns to prepare it for analysis.
 
 ## Data Analysis
 
-Using Pandas, NumPy, and Matplotlib, we analyzed the cleaned and transformed data by plotting charts and graphs to visualize athlete performances, speed differences between genders, age group performances in 50-mile races, and seasonal trends in races.
+Using Pandas, NumPy, and Matplotlib, I analyzed the cleaned and transformed data by plotting charts and graphs to visualize athlete performances, speed differences between genders, age group performances in 50-mile races, and seasonal trends in races.
 
 ## Observations
 
@@ -63,7 +63,7 @@ From the given data, we made the following observations:
 
 Three key advantages of the Ultra Marathon Analysis project are:
 
-1. **Informed Insights:** By leveraging Python for data analysis, we gained insights into athlete performances, speed differences, age group performances, and seasonal trends in ultra marathon races.
+1. **Informed Insights:** By leveraging Python for data analysis, I gained insights into athlete performances, speed differences, age group performances, and seasonal trends in ultra marathon races.
 
 2. **Data Visualization:** Visualizations using Matplotlib helped in better understanding the trends and patterns in the data, aiding decision-making processes.
 
