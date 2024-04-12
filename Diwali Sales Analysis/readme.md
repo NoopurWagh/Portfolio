@@ -29,9 +29,15 @@ The Diwali Sale Analysis project aims to:
 
 4. **Insights:** Extract meaningful insights from the analysis to understand purchasing trends and patterns during the Diwali sale.
 
+![Project Overview](https://github.com/NoopurWagh/Portfolio/blob/main/Diwali%20Sales%20Analysis/Graph%20Plot/Product%20Categories%20vs%20Total%20sale.png)
+
+![Project Overview](https://github.com/NoopurWagh/Portfolio/blob/main/Diwali%20Sales%20Analysis/Graph%20Plot/Total%20sale%20per%20State.png)
+
 ![Project Overview](https://github.com/NoopurWagh/Portfolio/blob/main/Diwali%20Sales%20Analysis/Graph%20Plot/No.%20of%20buyers%20per%20Age%20group.png)
 
-![Project Overview](https://github.com/NoopurWagh/Portfolio/blob/main/Diwali%20Sales%20Analysis/Graph%20Plot/Total%20sale%20per%20age%20group.png)
+![Project Overview](https://github.com/NoopurWagh/Portfolio/blob/main/Diwali%20Sales%20Analysis/Graph%20Plot/Occupation%20vs%20Total%20Sale%20.png)
+
+
 
 ## Getting Started
 
