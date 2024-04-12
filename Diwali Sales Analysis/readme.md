@@ -27,15 +27,7 @@ The Diwali Sale Analysis project aims to:
 
 3. **Data Visualization:** Represent the analysis results in the form of graphs and visualizations for better understanding of trends and patterns.
 
-4. **Insights:** Extract meaningful insights from the analysis to understand purchasing trends and patterns during the Diwali sale.
-
-![Project Overview](https://github.com/NoopurWagh/Portfolio/blob/main/Diwali%20Sales%20Analysis/Graph%20Plot/Product%20Categories%20vs%20Total%20sale.png)
-
-![Project Overview](https://github.com/NoopurWagh/Portfolio/blob/main/Diwali%20Sales%20Analysis/Graph%20Plot/Total%20sale%20per%20State.png)
-
-![Project Overview](https://github.com/NoopurWagh/Portfolio/blob/main/Diwali%20Sales%20Analysis/Graph%20Plot/No.%20of%20buyers%20per%20Age%20group.png)
-
-![Project Overview](https://github.com/NoopurWagh/Portfolio/blob/main/Diwali%20Sales%20Analysis/Graph%20Plot/Occupation%20vs%20Total%20Sale%20.png)
+4. **Insights:** Extract meaningful insights from the analysis to understand purchasing trends and patterns during the Diwali sale
 
 
 
@@ -63,6 +55,13 @@ Through our analysis, we gained valuable insights into Diwali sale purchasing be
 - **Popular Product Categories:** Identifying the most shopped categories during the sale.
   
 - **Regional Trends:** Determining which states led in the purchase of specific products or overall spending.
+ ![Insights](https://github.com/NoopurWagh/Portfolio/blob/main/Diwali%20Sales%20Analysis/Graph%20Plot/Product%20Categories%20vs%20Total%20sale.png)
+
+![Insights](https://github.com/NoopurWagh/Portfolio/blob/main/Diwali%20Sales%20Analysis/Graph%20Plot/Total%20sale%20per%20State.png)
+
+![Insights](https://github.com/NoopurWagh/Portfolio/blob/main/Diwali%20Sales%20Analysis/Graph%20Plot/No.%20of%20buyers%20per%20Age%20group.png)
+
+![Insights](https://github.com/NoopurWagh/Portfolio/blob/main/Diwali%20Sales%20Analysis/Graph%20Plot/Occupation%20vs%20Total%20Sale%20.png)
 
 ## Advantages of the Project
 
