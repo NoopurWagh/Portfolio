@@ -29,7 +29,7 @@ The Diwali Sale Analysis project aims to:
 
 4. **Insights:** Extract meaningful insights from the analysis to understand purchasing trends and patterns during the Diwali sale.
 
-![Project Overview](https://[github.com/NoopurWagh/Portfolio/blob/main/Marathon%20Data%20Analysis/Average%20Race%20Speed%20per%20Gender%20per%20Race%20Length.png])
+![Project Overview](https://github.com/NoopurWagh/Portfolio/blob/main/Marathon%20Data%20Analysis/Average%20Race%20Speed%20per%20Gender%20per%20Race%20Length.png)
 
 
 ## Getting Started
